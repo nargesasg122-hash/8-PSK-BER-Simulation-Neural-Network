@@ -54,9 +54,13 @@ Results are also printed in a tabular format using tabulate.
 # Project Structure
 8PSK-BER-Simulation/
 ├── main.py           # Full simulation and neural network script
+
 ├── requirements.txt  # Python dependencies
+
 ├── README.md         # Project description and usage
+
 ├── results/          # Optional: save BER results or plots
+
 └── plots/            # Optional: saved figures
 
 # BER Theory Reference
