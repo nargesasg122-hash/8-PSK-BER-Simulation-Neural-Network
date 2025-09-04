@@ -59,9 +59,9 @@ Results are also printed in a tabular format using tabulate.
 
 ├── README.md         # Project description and usage
 
-├── results/          # Optional: save BER results or plots
+├── results/          # save BER results or plots
 
-└── plots/            # Optional: saved figures
+└── plots/            # saved figures
 
 # BER Theory Reference
 
